@@ -7,6 +7,11 @@ Awesome computationally efficient semigroups. At the moment this repository serv
 2. Multiplication on `Int`, `Long`, etc, excluding the zero.
    * Can be mod `p` for any prime `p`.
 3. Addition on matrices.
+4. `x |+| y = x ^ y` (bit-wise xor).
+
+## Commutative monoids with annihilators
+1. `x |+| y = x & y` (bit-wise and).
+2. `x |+| y = x | y` (bit-wise or).
 
 ## Commutative monoids without annihilators
 1. `x |+| y = x * y + x + y`
