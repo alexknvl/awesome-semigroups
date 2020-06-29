@@ -1,0 +1,2 @@
+# awesome-semigroups
+Awesome Semigroups
