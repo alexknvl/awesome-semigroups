@@ -29,4 +29,8 @@ Awesome computationally efficient semigroups. At the moment this repository serv
    * Can be mod `p` for any prime `p`.
 
 ## Non-commutative monoids without annihilators
-1. ???
+1. `(a, b) |+| (c, d) = (a + b * c, b * d)` with `c` and `d` odd integers.
+   * Can be mod `p` for any even number.
+   * It might be a group? Hard to say.
+2. `(a, b) |+| (c, d) = (a + (2 b + 1) c, 2 b d + b + d)`
+   * Can be mod `p` for any number (?).
