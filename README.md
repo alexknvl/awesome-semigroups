@@ -8,7 +8,9 @@ Awesome computationally efficient semigroups. At the moment this repository serv
    * Can be mod `p` for any prime `p`.
 
 ## Non-commutative monoids with annihilators
-1. `(a, b) |+| (c, d) = (a + b * c, b * d)`. `(0, 0)` is an annihilator. `(0, 1)` is an identity element.
+1. `(a, b) |+| (c, d) = (a + b * c, b * d)`. 
+   * `(0, 0)` is a left annihilator. 
+   * `(0, 1)` is an identity element.
    * Can be mod `p` for any prime `p`.
 
 ## Non-commutative monoids without annihilators
