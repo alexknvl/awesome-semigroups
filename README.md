@@ -3,7 +3,7 @@ Awesome Semigroups. At the moment this repository serves as a collection of usef
 
 ## Abelian groups
 1. Addition on N, Q, R, etc.
-2. Multiplication on R \ {0} and other similar constructions.
+2. Multiplication on N \ {0}, Q \ {0}, R \ {0} and other similar constructions.
 
 ## Non-commutative monoids with annihilators
 1. (a, b) x (c, d) = (a + b * c, b * d)
