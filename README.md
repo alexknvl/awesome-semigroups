@@ -6,6 +6,7 @@ Awesome computationally efficient semigroups. At the moment this repository serv
    * Can be mod `p` for any `p` as well.
 2. Multiplication on `Int`, `Long`, etc, excluding the zero.
    * Can be mod `p` for any prime `p`.
+3. Addition on matrices.
 
 ## Non-commutative monoids with annihilators
 1. `(a, b) |+| (c, d) = (a + b * c, b * d)`. 
