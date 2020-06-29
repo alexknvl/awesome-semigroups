@@ -1,5 +1,5 @@
 # awesome-semigroups
-Awesome Semigroups. At the moment this repository serves as a collection of useful semigroups I could use for hashing.
+Awesome Semigroups. At the moment this repository serves as a collection of useful semigroups I could use for hashing. See https://alexknvl.com/posts/monoidal-hashing.html for some background.
 
 ## Abelian groups
 1. Addition on N, Q, R, etc.
