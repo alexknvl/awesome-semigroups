@@ -8,6 +8,11 @@ Awesome computationally efficient semigroups. At the moment this repository serv
    * Can be mod `p` for any prime `p`.
 3. Addition on matrices.
 
+## Commutative monoids without annihilators
+1. `x |+| y = x * y + x + y`
+   * `(0, 0)` is an identity element.
+   * Can be mod `p` for any prime `p`.
+
 ## Non-commutative monoids with annihilators
 1. `(a, b) |+| (c, d) = (a + b * c, b * d)`. 
    * `(0, 0)` is a left annihilator. 
