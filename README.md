@@ -1,11 +1,11 @@
 # awesome-semigroups
 Awesome computationally efficient semigroups. At the moment this repository serves as a collection of useful semigroups I could use for hashing. See https://alexknvl.com/posts/monoidal-hashing.html for some background.
 
-## Groups
+## Non-Commutative (Non-Abelian) Groups
 1. [Special linear group](https://en.wikipedia.org/wiki/Special_linear_group)
 2. [General linear group](https://en.wikipedia.org/wiki/General_linear_group)
 
-## Abelian groups
+## Commutative (Abelian) Groups
 1. Addition on `Int`, `Long`, etc.
    * Can be mod `p` for any `p` as well.
 2. Multiplication on `Int`, `Long`, etc, excluding the zero.
